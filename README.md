@@ -81,17 +81,6 @@ Delivering real-time workforce and patrol management solutions.
 
 ---
 
-### **Junior Software Engineer** @ BitLipa  
-*Feb 2019 – Jan 2020*
-
-- Developed blockchain-based platforms
-- Designed UI & assisted senior developers
-- Delivered testing and user support
-
-> **Stack**: JavaScript, HTML/CSS, Tailwind, Bootstrap
-
----
-
 ## 🎓 Education
 
 **Bachelor of Science in Software Engineering**  
